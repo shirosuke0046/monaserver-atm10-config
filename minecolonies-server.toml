@@ -92,7 +92,7 @@
 	#minecolonies.config.maxColonySize.comment [Default: 20, min: 1, max: 250]
 	# Default: 20
 	# Range: 1 ~ 250
-	maxColonySize = 20
+	maxColonySize = 25
 	#minecolonies.config.minColonyDistance.comment [Default: 8, min: 1, max: 200]
 	# Default: 8
 	# Range: 1 ~ 200
