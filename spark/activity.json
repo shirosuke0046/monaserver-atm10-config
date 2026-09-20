@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789732846464,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JEhmOYACfY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789731786660,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/nfK7reshcT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789407059401,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qpPafDFiUM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789406955562,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6NtJzRutaR"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789406750006,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uuZlCFYXzD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789406073241,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/saepyNHSqu"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "rosea0x0",
+      "uniqueId": "13d64f99-2fdc-46d8-997c-9911a4f16e72"
+    },
+    "time": 1789405904367,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Y8rMxVcKI1"
+    }
+  }
+]
